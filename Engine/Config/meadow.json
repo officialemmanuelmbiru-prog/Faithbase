@@ -1,0 +1,7 @@
+{
+  "biome_name": "Meadow",
+  "terrain_size": 150.0,
+  "hill_intensity": 0.35,
+  "vegetation_density": 0.6,
+  "river_enabled": true
+}
